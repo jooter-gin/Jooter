@@ -1,0 +1,1 @@
+JOOTER Project is an project for developing JAVA script in order to provide scooter management application.
